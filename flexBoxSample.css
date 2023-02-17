@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-    background: rgb(143, 45, 156);
+    background: rgb(253, 251, 251);
     font-weight: bold;
     padding: 10px;
     color: black;
@@ -20,7 +20,7 @@ body {
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-    background: rgb(114, 239, 243);
+    background: rgb(172, 214, 172);
     font-weight: bold;
     padding: 30px;
 }
@@ -34,26 +34,26 @@ body {
 
 .mainContentItem {
     text-align: left;
-    border: 5px solid rgb(116, 31, 133);
+    border: 5px solid rgb(144, 241, 152);
 }
 
 article {
     padding: 10px;
     margin: 10px;
-    background-color: rgb(108, 219, 214);
+    background-color: rgb(227, 253, 108);
 }
 
 .sideBarLeftItem {
-    background: rgb(198, 171, 223);
+    background: rgb(3, 235, 243);
 }
 
 .sideBarRightItem {
-    background: rgb(159, 153, 241);
+    background: rgb(8, 238, 238);
 }
 
 .sideBarItem {
     flex: 1 0 0;
-    border: 5px solid rgb(125, 72, 156);
+    border: 5px solid rgb(176, 162, 240);
 }
 
 .mainContentItem {
